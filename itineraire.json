@@ -1,0 +1,171 @@
+{
+  "pays": "Îles Féroé",
+  "drapeau": "🇫🇴",
+  "symbole": "🐑",
+  "titre": "Évasion Nordique aux Îles Féroé : Entre Fjords et Sérénité",
+  "budget_total": "À partir de 1400 €/pers",
+  "duree": "4 jours",
+  "temps_vol": "Environ 5h30 (depuis Paris, france)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Premiers Pas sur Vágar",
+      "legende": "Après un vol depuis Paris, atterrissez sur l'île de Vágar, porte d'entrée des Féroé. Installez-vous et laissez-vous charmer par les paysages côtiers apaisants, parfaits pour une première immersion douce.",
+      "lieu": "Vágar",
+      "activites": [
+        "🛬 <strong>Arrivée à l'aéroport de Vágar (FAE)</strong>: Récupération des bagages et formalités.",
+        "🚗 <strong>Prise en charge du véhicule de location</strong>: Indispensable pour explorer les îles.",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Détendez-vous après le voyage dans votre hébergement à Sørvágur ou Miðvágur.",
+        "🚶‍♂️ <strong>Balade relaxante autour du lac Sørvágsvatn (Leitisvatn)</strong>: Profitez d'une promenade paisible avec vue sur le \"lac suspendu\"."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Vágar, Sørvágur",
+          "categorie": "Aéroport",
+          "coords": { "lat": 62.0636, "lng": -7.2770 }
+        },
+        {
+          "nom_recherche": "Lac Sørvágsvatn, Miðvágur",
+          "categorie": "Lac",
+          "coords": { "lat": 62.0450, "lng": -7.2200 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Les Féroé conduisent à droite. Prévoyez un adaptateur pour les prises électriques (type F)."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏞️",
+      "titre": "Merveilles de Vágar : Mykines et Múlafossur",
+      "legende": "Explorez les paysages emblématiques de Vágar. Admirez la majestueuse cascade de Múlafossur et, si la saison le permet, partez à la rencontre des macareux sur l'île de Mykines pour une expérience inoubliable au cœur de la nature féroïenne.",
+      "lieu": "Vágar",
+      "activites": [
+        "🚢 <strong>Excursion à Mykines</strong>: Découvrez l'île aux macareux et ses paysages époustouflants (selon la saison et météo, réservation impérative).",
+        "🚶‍♀️ <strong>Randonnée douce à Gásadalur</strong>: Admirez la cascade de Múlafossur, l'une des plus photographiées des Féroé, tombant directement dans l'océan.",
+        "☕ <strong>Pause café à Bøur</strong>: Profitez de la vue imprenable sur les îlots de Tindhólmur et Gáshólmur depuis ce charmant village."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Port de Sørvágur, Sørvágur",
+          "categorie": "Port",
+          "coords": { "lat": 62.0710, "lng": -7.3000 }
+        },
+        {
+          "nom_recherche": "Múlafossur Waterfall, Gásadalur",
+          "categorie": "Cascade",
+          "coords": { "lat": 62.1064, "lng": -7.4375 }
+        },
+        {
+          "nom_recherche": "Bøur, Vágar",
+          "categorie": "Village",
+          "coords": { "lat": 62.0900, "lng": -7.3700 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "☔",
+          "titre": "Météo imprévisible",
+          "texte": "La météo aux Féroé est très changeante. Prévoyez toujours des vêtements chauds et imperméables, même en été. Les excursions en bateau peuvent être annulées en cas de mauvais temps."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏘️",
+      "titre": "Culture et Paysages entre Streymoy et Eysturoy",
+      "legende": "Traversez le pont qui relie Vágar à Streymoy et Eysturoy. Plongez dans l'histoire à Kirkjubøur, la capitale culturelle, puis explorez Tórshavn, la plus petite capitale du monde, avant de vous détendre dans un cadre pittoresque.",
+      "lieu": "Streymoy & Eysturoy",
+      "activites": [
+        "🏛️ <strong>Visite de Kirkjubøur</strong>: Découvrez la plus ancienne ferme des Féroé, la cathédrale de Magnus inachevée et l'église Saint-Olav.",
+        "🚶‍♀️ <strong>Exploration de Tórshavn</strong>: Flânez dans le quartier historique de Tinganes avec ses maisons aux toits d'herbe et le charmant port.",
+        "🚗 <strong>Route panoramique vers Gjógv</strong>: Admirez les falaises impressionnantes et le port naturel unique de ce village pittoresque sur Eysturoy."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Kirkjubøargarður, Kirkjubøur",
+          "categorie": "Site historique",
+          "coords": { "lat": 61.9500, "lng": -6.7900 }
+        },
+        {
+          "nom_recherche": "Tinganes, Tórshavn",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 62.0090, "lng": -6.7720 }
+        },
+        {
+          "nom_recherche": "Gjógv, Eysturoy",
+          "categorie": "Village",
+          "coords": { "lat": 62.3170, "lng": -6.9300 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🛣️",
+          "titre": "Tunnels sous-marins",
+          "texte": "Les Féroé comptent plusieurs tunnels sous-marins payants. Le paiement se fait généralement en ligne ou dans les stations-service après le passage."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Derniers Regards et Départ",
+      "legende": "Profitez d'une dernière matinée pour quelques achats de souvenirs ou une courte balade. Reprenez la route vers l'aéroport de Vágar, le cœur rempli de souvenirs inoubliables de ces îles mystérieuses et apaisantes.",
+      "lieu": "Vágar",
+      "activites": [
+        "🛍️ <strong>Achats de souvenirs à Tórshavn</strong>: Profitez de la matinée pour trouver des pulls en laine féroïenne ou de l'artisanat local.",
+        "🚗 <strong>Retour vers l'aéroport de Vágar</strong>: Profitez des derniers paysages grandioses sur le chemin du retour.",
+        "🛫 <strong>Départ des Îles Féroé</strong>: Envol vers Paris, la tête pleine de souvenirs nordiques."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "SMS, Tórshavn",
+          "categorie": "Centre commercial",
+          "coords": { "lat": 62.0160, "lng": -6.7840 }
+        },
+        {
+          "nom_recherche": "Aéroport de Vágar, Sørvágur",
+          "categorie": "Aéroport",
+          "coords": { "lat": 62.0636, "lng": -7.2770 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "⛽",
+          "titre": "Conseil pratique",
+          "texte": "Assurez-vous de faire le plein de votre voiture de location avant de la rendre. Les stations-service sont moins nombreuses en dehors des villes principales."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 489 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 150-200 €/pers (location voiture)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "Environ 350-450 €/pers", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 250-350 €/pers (3 nuits)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 80-120 €/pers", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [{ "titre": "Juin à Août (pour la faune et météo plus clémente)", "symbole": "☀️" }],
+  "infos_pratiques": [
+    { "titre": "Les Féroé ont un climat océanique imprévisible. Prévoyez des couches de vêtements, un imperméable et des chaussures de marche robustes, quelle que soit la saison.", "symbole": "☔" },
+    { "titre": "La couronne féroïenne (DKK) est liée à la couronne danoise. Les cartes de crédit sont largement acceptées, mais un peu de liquide peut être utile pour les petits commerces.", "symbole": "💳" },
+    { "titre": "Permis français suffisant pour la location de voiture. Conduite à droite. Les routes sont bien entretenues mais souvent étroites et sinueuses. Les tunnels sous-marins sont payants.", "symbole": "🚗" },
+    { "titre": "Bonne couverture mobile dans les zones habitées. Le Wi-Fi est disponible dans la plupart des hébergements. Une eSIM peut être une bonne option.", "symbole": "📶" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-FAE/2026-05-12/2026-05-16", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Faroe Islands", "url": "https://visitfaroeislands.com/", "symbole": "📘" },
+    { "legende": "Météo locale", "titre": "Météo Féroé", "url": "https://www.yr.no/en/forecast/hourly-table/2-2610347/Faroe%20Islands/V%C3%A1gar/S%C3%B8rv%C3%A1gur", "symbole": "🌤️" },
+    { "legende": "Ferry Mykines", "titre": "Réserver le ferry pour Mykines", "url": "https://mykines.fo/", "symbole": "🚢" }
+  ]
+}
